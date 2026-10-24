@@ -1,3 +1,2 @@
 this is a test 
 admin ryo
-https://github.com/RasyaN5/test.git
